@@ -16,7 +16,9 @@
  * 
  */
 
-let numeroGatos = 10;
-
-let futuro = "tendréis " + numeroGatos + " gatos"; // <-- Vas a tener que modificar esta línea
+let numeroGatos = 0;
+let pareja = " Anna ";
+let pais = " Italia "
+let trabajo = " FullStackDev "
+let futuro = "Tu estaras en" + pais + "trabajando de" + trabajo + "y tu pareja sera" + pareja + "y tendréis " + numeroGatos + " gatos"; // <-- Vas a tener que modificar esta línea
 console.log(futuro);
